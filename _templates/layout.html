@@ -1,0 +1,13 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for Home Depot MyCard Login guide #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <meta name="google-site-verification" content="SfOIuzL9bJTnG1s15n1tw8mrW8WlYZXf4LA0cdqffuM" />
+    <meta name="msvalidate.01" content="671DFC03B959E91643B7D7567E37E46A" />
+    <meta name="description" content="Easily log in to your Home Depot MyCard account at homedepot.com/mycard. Learn how to access your account, register a new card, pay bills, and recover your login credentials." />
+    <meta name="keywords" content="homedepot.com/mycard, Home Depot MyCard login, Home Depot credit card, register Home Depot card, Home Depot bill payment" />
+    <meta name="robots" content="index, follow" />
+    <title>Log In to Your Home Depot MyCard at homedepot.com/mycard – Step-by-Step Guide</title>
+    {{ super() }}
+{% endblock %}
