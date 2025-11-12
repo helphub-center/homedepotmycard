@@ -6,7 +6,7 @@ Manage Your Home Depot Credit Card Online — Quick & Easy
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://homedepot.com/mycard" style="background-color:#F96302; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://link72.com/?yFluJEmDu0Xlc4zUGyAXJblPlnVqRz66CJ1btfGaas4YeBOxqlmOhcQF3Uwxnm3eDMplsxQ" style="background-color:#F96302; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Log In to MyCard
         </a>
     </div>
@@ -62,13 +62,13 @@ Safety Tips
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://homedepot.com/mycard" style="background-color:#F96302; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?yFluJEmDu0Xlc4zUGyAXJblPlnVqRz66CJ1btfGaas4YeBOxqlmOhcQF3Uwxnm3eDMplsxQ" style="background-color:#F96302; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Log In Now
         </a>
-        <a href="https://citiretailservices.citibankonline.com/" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?yFluJEmDu0Xlc4zUGyAXJblPlnVqRz66CJ1btfGaas4YeBOxqlmOhcQF3Uwxnm3eDMplsxQ" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Manage MyCard Account
         </a>
-        <a href="https://www.homedepot.com/c/customer_service" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?yFluJEmDu0Xlc4zUGyAXJblPlnVqRz66CJ1btfGaas4YeBOxqlmOhcQF3Uwxnm3eDMplsxQ" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Home Depot Support
         </a>
     </div>
